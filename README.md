@@ -1,3 +1,3 @@
-# restapi-with-flask
+# restapi-with-fastapi
 
 Test
